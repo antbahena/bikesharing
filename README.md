@@ -3,21 +3,20 @@
 [Dashboard Link](https://public.tableau.com/app/profile/anthony.bahena/viz/BikeSharing_16776292278030/UserBikeDataStory?publish=yes)
 
 ## Project Overview
-![June December Comparison](June_December_stats.png)
+![Checkout_Times_Gender](Checkout_Times_Gender.png)
 
-![June December Comparison](June_December_stats.png)
+![Checkout_time_user](Checkout_time_user.png)
 
-![June December Comparison](June_December_stats.png)
+![Gender_chart](Gender_chart.png)
 
-![June December Comparison](June_December_stats.png)
+![Trips_by_gender](Trips_by_gender.png)
 
-![June December Comparison](June_December_stats.png)
+![Trips_by_gender_weekday](Trips_by_gender_weekday.png)
 
-![June December Comparison](June_December_stats.png)
+![Trips_by_weekday](Trips_by_weekday.png)
 
-![June December Comparison](June_December_stats.png)
+![avg_trip_duration_birthyear.png](avg_trip_duration_birthyear.png)
 
-![June December Comparison](June_December_stats.png)
 
 ## Overview of the statistical analysis
 The purpose of this analysis is to find the data for June temperatures and December temperatures. In order to do so I need to incorporate sqlalchemy in order to import the data into two data frames. One for each month.
