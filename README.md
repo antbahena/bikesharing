@@ -4,47 +4,31 @@
 
 ## Project Overview
 
-![Checkout Times Gender](Images/Checkout_Times_Gender.png)
-
-![Checkout Times User](Images/Checkout_time_user.png)
-
-![Gender_chart](Images/Gender_chart.png)
-
-![Trips_by_gender](Images/Trips_by_gender.png)
-
-![Trips_by_gender_weekday](Images/Trips_by_gender_weekday.png)
-
-![Trips_by_weekday](Images/Trips_by_weekday.png)
-
-![avg_trip_duration_birthyear.png](Images/avg_trip_duration_birthyear.png)
-
-
 ## Overview of the statistical analysis
-The purpose of this analysis is to find the data for June temperatures and December temperatures. In order to do so I need to incorporate sqlalchemy in order to import the data into two data frames. One for each month.
+The bike riding data from the most Popular summer month gives us a clear way to indicate the prefeerred user base to market to and that seems to be Males born after 1955 as they are more likely to become subscribers.
+Here we can see the checkout time by user and how each user is more likely to ride for under an hour.
 
 ## Results
+![Checkout Times User](Images/Checkout_time_user.png)
 
-1. Temperature is consistently surfable in June. 
-As the mean is 74.94 degrees compared to December's 71.04 degrees.
+In this section we can see that Male riders are more likely to ride than woman.
+![Checkout Times Gender](Images/Checkout_Times_Gender.png)
 
-2. If we look at the min we can see that June is at 64 degrees compared to December where it is at 56 degrees.This means that there is a chance it will be 10 degrees colder which is not ideal surf weather.
+Visually in the pie chart we can see that it is well over half of the user base is male.
+![Gender_chart](Images/Gender_chart.png)
 
-3. If you want to guarantee more surfable days book a vacation in June over December.
+The most popular times are during the mornings before work and the evenings after work. 
+![Trips_by_gender](Images/Trips_by_gender.png)
 
-![June December Comparison](June_December_stats.png)
+In this section we can see that Males are also more likely to pay the subscirption fees and the highest usage day for males is Thursday.
+![Trips_by_gender_weekday](Images/Trips_by_gender_weekday.png)
+
+Here we can see overall the highest usage is on Thursday so this day should be avoided for maintanance.
+![Trips_by_weekday](Images/Trips_by_weekday.png)
+
+Here we can see that the avg user is born after 1955.
+![avg_trip_duration_birthyear.png](Images/avg_trip_duration_birthyear.png)
 
 ## Summary
 
-Using the two functions below we can compare the summary stats side by side. One on a general level and the second on a daily level. We can compare the overall days that are surfable at the same time.
-
-##### General
-june_data = june_df.describe()
-dec_data_compare = dec_results_df.describe()
-compare = june_data.merge(dec_data_compare,left_index= True, right_index= True)
-compare
-
-##### Daily
-june_data2 = june_df
-dec_data_compare2 = dec_results_df
-compare2 = june_data2.merge(dec_data_compare2,left_index= True, right_index= True)
-compare2
+Biker data shows that Males are more likely to use the biking service in the morning before work and in the evenings after work. It is also a good indicator that maintanance should be performed early in the AM around 2AM.
