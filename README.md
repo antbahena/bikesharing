@@ -3,10 +3,8 @@
 [Dashboard Link](https://public.tableau.com/app/profile/anthony.bahena/viz/BikeSharing_16776292278030/UserBikeDataStory?publish=yes)
 
 ## Project Overview
-[![Checkout_Times_Gender]([Checkout_Times_Gender.png](https://github.com/antbahena/bikesharing/blob/main/Images/Checkout_Times_Gender.png))](https://github.com/antbahena/bikesharing/blob/main/Images/Checkout_Times_Gender.png)
-![June December Comparison]([June_December_stats.png](https://github.com/antbahena/bikesharing/blob/main/Images/Checkout_Times_Gender.png))
 
-![Checkout_time_user](Checkout_time_user.png)
+![Checkout_time_user]([Checkout_time_user.png](https://github.com/antbahena/bikesharing/blob/main/Images/Checkout_Times_Gender.png))
 
 ![Gender_chart](Gender_chart.png)
 
