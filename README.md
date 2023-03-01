@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-![Checkout_time_user]([Checkout_time_user.png](https://github.com/antbahena/bikesharing/blob/main/Images/Checkout_Times_Gender.png))
+![Checkout Times Gender](Checkout_Times_Gender.png)
 
 ![Gender_chart](Gender_chart.png)
 
