@@ -4,17 +4,19 @@
 
 ## Project Overview
 
-![Checkout Times Gender](Checkout_Times_Gender.png)
+![Checkout Times Gender](Images/Checkout_Times_Gender.png)
 
-![Gender_chart](Gender_chart.png)
+![Checkout Times User](Images/Checkout_time_user.png)
 
-![Trips_by_gender](Trips_by_gender.png)
+![Gender_chart](Images/Gender_chart.png)
 
-![Trips_by_gender_weekday](Trips_by_gender_weekday.png)
+![Trips_by_gender](Images/Trips_by_gender.png)
 
-![Trips_by_weekday](Trips_by_weekday.png)
+![Trips_by_gender_weekday](Images/Trips_by_gender_weekday.png)
 
-![avg_trip_duration_birthyear.png](avg_trip_duration_birthyear.png)
+![Trips_by_weekday](Images/Trips_by_weekday.png)
+
+![avg_trip_duration_birthyear.png](Images/avg_trip_duration_birthyear.png)
 
 
 ## Overview of the statistical analysis
