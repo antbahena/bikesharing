@@ -3,6 +3,7 @@
 [Dashboard Link](https://public.tableau.com/app/profile/anthony.bahena/viz/BikeSharing_16776292278030/UserBikeDataStory?publish=yes)
 
 ## Project Overview
+Using tableau we are able to import biker data to analyze August rides for accurate marketing and maintanance.
 
 ## Overview of the statistical analysis
 The bike riding data from the most Popular summer month gives us a clear way to indicate the prefeerred user base to market to and that seems to be Males born after 1955 as they are more likely to become subscribers.
